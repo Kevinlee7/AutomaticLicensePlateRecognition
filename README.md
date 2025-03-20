@@ -1,5 +1,4 @@
 # AutomaticLicensePlateRecognition
-# 无标题
 
 ## Overview
 
